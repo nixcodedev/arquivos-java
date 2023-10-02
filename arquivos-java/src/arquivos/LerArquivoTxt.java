@@ -19,6 +19,13 @@ public class LerArquivoTxt {
 
 			if (linha != null && !linha.isEmpty()) {
 				System.out.println(linha);
+				
+				String[] dados = linha.split("\\;"); 
+				
+				Pessoa pessoa = new Pessoa();
+				pessoa.setNome(dados[0]);
+				pessoa.setEmail(dados[1]);
+				
 			}
 		}
 	}
