@@ -1,7 +1,3 @@
-Nixon Sena;pessoa1@gmail.com;41
-Nicholas Sena;pessoa2@gmail.com;8
-Mel Sena;pessoa3@gmail.com;36
-
-Jorge Sena;pessoa4@gmail.com;65
-
-
+Nixon Sena|pessoa1@gmail.com|41
+Nicholas Sena|pessoa2@gmail.com|8
+Mel Sena|pessoa3@gmail.com|36
