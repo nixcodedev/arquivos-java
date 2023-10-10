@@ -14,8 +14,7 @@ public class ApachePoi {
 
 	public static void main(String[] args) throws Exception {
 
-		File file = new File
-				("/home/nino/git/arquivos-java/arquivos-java/src/arquivos/aquivo_excel.xls");
+		File file = new File("/home/nino/git/arquivos-java/arquivos-java/src/arquivos/aquivo_excel.xls");
 
 		if (!file.exists()) {
 			file.createNewFile();
